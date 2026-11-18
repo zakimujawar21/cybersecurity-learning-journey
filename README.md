@@ -9,3 +9,11 @@ Currently learning:
 - Cybersecurity Fundamentals
 
 This repository will document my learning journey and hands-on practice.
+
+## Currently Learning
+
+- Linux Fundamentals
+- Networking & Wireshark
+- Cybersecurity Fundamentals
+- Windows Basics
+- SOC Fundamentals
