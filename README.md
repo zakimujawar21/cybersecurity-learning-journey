@@ -17,3 +17,9 @@ This repository will document my learning journey and hands-on practice.
 - Cybersecurity Fundamentals
 - Windows Basics
 - SOC Fundamentals
+
+## Tools I'm Practicing
+
+- Linux (Ubuntu)
+- Wireshark
+- Git & GitHub
